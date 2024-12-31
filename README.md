@@ -9,5 +9,7 @@ This is the first part of my customer segmentation series focusing on demographi
  - timeonsite
  - bounce rate
  - and state
+
 The major features i used for this segmentation was age and gender which was succesfully encoded and clustered into different clusters for further analysis. kmean cluster with elbow point was used
-various visualization was also  created to give insights and for further analysis
+
+Various visualization was also  created to give insights and for further analysis.
